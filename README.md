@@ -2,9 +2,11 @@
 This python program crawl Bogazici University’s OBIKAS registration pages and extract course offering information.
 
 #The	command	line	syntax	for	running bucourses.py program	is	as	follows:
+
 bucourses.py <start semester> <end-semester>
 
 Examples of to run the program:
+
 ./bucourses.py 2018-Fall 2019-Spring
 ./bucourses.py 2017-Spring 2018-Summer
 
